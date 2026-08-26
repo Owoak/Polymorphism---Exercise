@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01. Aggregators/01. Aggregators.vcxproj" Id="3b43b8df-9322-442a-b767-b70eeda1b4d2" />
+  <Project Path="02. Typed Stream/02. Typed Stream.vcxproj" Id="456e2795-d348-4361-903f-cfb004fb3c6f" />
+  <Project Path="03. Calculator/03. Calculator.vcxproj" Id="1663fe47-d388-4b01-aed2-d5477a35d0dd" />
+  <Project Path="04. PistolRound/04. PistolRound.vcxproj" Id="1e5ac6d5-3e21-4c34-b148-3e7290a842f8" />
+</Solution>
